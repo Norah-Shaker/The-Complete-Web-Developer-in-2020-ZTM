@@ -1,0 +1,54 @@
+
+
+*{
+text-align: center;
+}
+
+
+body{
+background-image: url(background.jpg);	
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+ p {
+	color: rgb(126, 45, 103);
+	text-align: left;
+	border: 5px solid #BB7EAA;
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+}
+
+p {
+	color: green;
+}
+
+p{
+	line-height: 70px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 130%;
+}
+
+img{
+	float: left;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+}
+
+.webtext {
+	border: 5px dashed pink;
+}
+
