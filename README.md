@@ -5,4 +5,4 @@ Creating simple website using HTML and HTML 5.
 ## Section 6 - CSS
 Training some CSS styles.
 ## Section 7 - Advanced CSS
-Building websites using some advanced CSS3 features.
+Styling websites using some advanced CSS3 features.
