@@ -6,3 +6,5 @@ Creating simple website using HTML and HTML 5.
 Training some CSS styles.
 ## Section 7 - Advanced CSS
 Styling websites using some advanced CSS3 features.
+## Section 8 - Bootstrap 4
+Creating simple online websie.
